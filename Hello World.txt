@@ -1,1 +1,1 @@
-print("Hello world!!!Роуз Ли"); 
+print("Hello world!!!Роуз Ли;")
